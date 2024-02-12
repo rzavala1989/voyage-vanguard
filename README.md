@@ -4,13 +4,11 @@ VoyageVanguard is a vibrant and user-friendly travel agency landing page. It's b
 
 ## Live Demo
 
-You can view the live demo of the project [here](https://voyagevanguard.vercel.app/).
+You can view the live demo of the project [here](https://voyage-vanguard.vercel.app/).
 
 ## Screenshots
 
-### Home Page
-
-![Home Page](https://github.com/MERYX-bh/VoyageVanguard/blob/main/VoyageVanguard.png)
+![App Scrolling GIF](https://imgur.com/a/B1zuZ6q)
 
 ## Technologies Used
 
