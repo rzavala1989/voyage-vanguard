@@ -18,19 +18,19 @@ const About = () => {
       viewport={{once: false, amount: 0.25}}
       className={`${styles.innerWidth} mx-auto 
       ${styles.flexCenter} flex-col`}>
-        <TypingText title='| About TravelVerse' textStyle='text-center' />
+        <TypingText title='| About VoyageVanguard' textStyle='text-center' />
         <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className='mt-[8px] font-normal sm:text-[32px]
         text-[20px] text-center text-secondary-white'
         >
           At
-        <span className="font-extrabold text-white"> TravelVerse,</span>
+        <span className="font-extrabold text-white"> VoyageVanguard,</span>
         Your Pathway to Extraordinary Explorations
 
 we redefine the art of travel, offering you more than just a journey; we 
 offer a gateway to  <span className="font-extrabold text-white">unforgettable experiences.</span> With a commitment 
-to crafting seamless and  <span className="font-extrabold text-white">immersive adventures</span>, TravelVerse stands as a 
+to crafting seamless and  <span className="font-extrabold text-white">immersive adventures</span>, VoyageVanguard stands as a 
 premier travel agency, dedicated to turning your travel dreams into tangible realities.
         </motion.p>
         <motion.img

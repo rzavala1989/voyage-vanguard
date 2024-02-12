@@ -7,6 +7,6 @@ Travel agency landing page using: nextjs, taildwind css and framer motion for gr
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://github.com/MERYX-bh/TravelVerse/blob/main/travelverse.png'/>
+<img src='https://github.com/MERYX-bh/VoyageVanguard/blob/main/VoyageVanguard.png'/>
 
 </div>

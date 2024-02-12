@@ -34,9 +34,9 @@ const Footer = () => (
         <div className="mb-[50px] h-[2px] opacity-10 bg-white" />
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px]
-           text-white">TravelVerse</h4>
+           text-white">VoyageVanguard</h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 TravelVerse. All rights reserved.
+            Copyright © 2021 - 2022 VoyageVanguard. All rights reserved.
           </p>
           <div className="flex gap-4">
             {socials.map((social) => (

@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a destination that suits you and you want to visit',
-  'See what people think about it, watch images and 3D videos',
-  'Book a trip for your dream destination and have fun',
+  "Curate your ideal itinerary from an array of handpicked destinations tailored to your personal travel aspirations.",
+  'Immerse yourself in authentic testimonials, vivid photography, and cutting-edge 3D visual tours that bring each destination to life before you set foot there.',
+  'Embark on an experience where delight and discovery are the itinerary.',
 ];
 
 export const newFeatures = [
@@ -50,21 +50,20 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/family.jpg',
-    title: 'Personnalized Journey for everyone',
+    title: 'Be the author of your own journey',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
-  },
+        "Embark on a journey where every path leads to discovery and family bonds are strengthened under foreign skies. Explore landscapes where each view is a shared memory in the making. Where every step is a story that's yours to write."  },
   {
     imgUrl: '/guide.jpg',
-    title: 'Expert Guidance during trips',
+    title: 'Never feel like a stranger in a foreign country; befriend a local guide',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        "Dive into the heart of your destination with someone who calls it home. Our local guides are more than just experts; they're storytellers and friends, turning every nook and cranny into a personal anecdote and every visit into an insider's experience.",
   },
   {
     imgUrl: '/group.jpg',
-    title: 'With one ticket you can explore many countries',
+    title: 'Become a frequent traveler and get exclusive offers',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        "Join our community of explorers and gain access to the world's best-kept secrets. Travel not just to see places, but to be part of them. With us, frequent miles mean richer experiences and connections that turn into lifelong friendships.",
   },
 ];
 

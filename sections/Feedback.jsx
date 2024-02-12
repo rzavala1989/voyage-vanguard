@@ -29,7 +29,7 @@ const Feedback = () => {
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px]
           sm:leading-[22px] leading-[16px] text-white">
-            Founder | TravelVerse
+            Founder | VoyageVanguard
           </p>
         </div>
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
