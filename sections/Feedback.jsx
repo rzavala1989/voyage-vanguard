@@ -33,8 +33,8 @@ const Feedback = () => {
           </p>
         </div>
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          “With the wide range of availale destinations nowdays, we ensure the best
-          destinations for our clients, we ensure that they have the best holidays ever.
+          “With the wide range of available destinations these days, VoyageVanguard provides the best
+          destinations for our clients, and we can ensure that they will have moments that can cement and celebrate forever.
         </p>
       </motion.div>
       <motion.div
