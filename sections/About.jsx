@@ -26,12 +26,10 @@ const About = () => {
         >
           At
         <span className="font-extrabold text-white"> VoyageVanguard,</span>
-        Your Pathway to Extraordinary Explorations
-
-we redefine the art of travel, offering you more than just a journey; we 
-offer a gateway to  <span className="font-extrabold text-white">unforgettable experiences.</span> With a commitment 
-to crafting seamless and  <span className="font-extrabold text-white">immersive adventures</span>, VoyageVanguard stands as a 
-premier travel agency, dedicated to turning your travel dreams into tangible realities.
+        we redefine the art of travel, offering you more than just a journey; we 
+        offer a gateway to  <span className="font-extrabold text-white">unforgettable experiences.</span> With a commitment 
+        to crafting seamless and  <span className="font-extrabold text-white">immersive adventures</span>, VoyageVanguard stands as a 
+        premier travel agency, dedicated to turning your travel dreams into tangible realities.
         </motion.p>
         <motion.img
         variants={fadeIn('up', 'tween', 0.3, 1)}
